@@ -2,8 +2,8 @@
 
 Chép file này thành `reports/REPORT.md` rồi điền. Giữ nguyên các tiêu đề.
 
-Họ tên / nhóm: `...`
-Ngày: `...`
+Họ tên / nhóm: `Lê Việt Anh`
+Ngày: `15/09/2026`
 
 ---
 
@@ -42,9 +42,9 @@ Ca nào hai người quyết khác nhau, và luật nào còn thiếu trong `GUI
 
 | Evidence | Giá trị |
 | --- | --- |
-| SHA-256 từ `evidence/pre-gold/clip_01/manifest.json` | `...` |
-| Thời điểm khóa | `...` |
-| Số row / frame / track trước khi mở reference | `...` |
+| SHA-256 từ `evidence/pre-gold/clip_01/manifest.json` | `d60d630524560a15380ce99b9a7a106ed126a7efd9fc0a38dd50dcfdb3d565fb` |
+| Thời điểm khóa | `4h47` |
+| Số row / frame / track trước khi mở reference | `620` |
 
 | | HOTA | DetA | AssA | LocA | IDF1 | MOTA | MOTP | FP | FN | IDSW |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
